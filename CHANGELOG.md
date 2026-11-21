@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/DevNiola/Prism/compare/v1.3.5...v1.4.0) (2026-11-21)
+
+
+### Features
+
+* **debug:** restore focus to trigger on modal/panel close ([#510](https://github.com/DevNiola/Prism/issues/510)) ([973c766](https://github.com/DevNiola/Prism/commit/973c766fdc577325a015c69a05ee6d3b113c4970))
+
 ## [1.3.5](https://github.com/DevNiola/Prism/compare/v1.3.4...v1.3.5) (2026-10-26)
 
 
